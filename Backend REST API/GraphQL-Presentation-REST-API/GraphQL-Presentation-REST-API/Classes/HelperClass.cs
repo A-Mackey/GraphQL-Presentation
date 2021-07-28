@@ -60,18 +60,18 @@ namespace GraphQL_Presentation_REST_API.Classes
 
         private static List<List<string>> projectss = new List<List<string>>
         {
+            new List<string> { "Scorecard", "GraphQL Layer", "GraphQL Presentation" },
+            new List<string> { "Scorecard", "Parking" },
+            new List<string> { "Scorecard", "Parking", "AWS S3 Pulling" },
+            new List<string> { "Scorecard", "Parking" },
+            new List<string> { "Scorecard", "Parking", "User Experience" },
+            new List<string> { "Scorecard", "Parking", "User Experience" },
             new List<string> { "Scorecard", "Parking" },
             new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
-            new List<string> { "Scorecard", "Parking" },
+            new List<string> { "Scorecard", "Parking", "Scorecard Front-end" },
+            new List<string> { "Scorecard", "Parking", "Collisions Page" },
+            new List<string> { "Scorecard", "Parking", "Project Mangagment" },
+            new List<string> { "Scorecard", "Parking", "GraphQL Handling" },
         };
 
         private static List<int> pingPongGames = new List<int>
