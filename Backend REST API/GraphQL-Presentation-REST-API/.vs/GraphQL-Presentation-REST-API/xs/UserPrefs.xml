@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{ACF52A0D-AC9F-416B-99AA-C430E328D570}|Default">
+  <MonoDevelop.Ide.ItemProperties.GraphQL-Presentation-REST-API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphQL-Presentation-REST-API/Classes/HelperClass.cs">
+    <Files>
+      <File FileName="GraphQL-Presentation-REST-API/Controllers/WeatherForecastController.cs" Line="21" Column="17" />
+      <File FileName="GraphQL-Presentation-REST-API/Classes/InternClass.cs" Line="13" Column="39" />
+      <File FileName="GraphQL-Presentation-REST-API/Classes/HelperClass.cs" Line="89" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphQL-Presentation-REST-API" expanded="True">
+            <Node name="GraphQL-Presentation-REST-API" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="HelperClass.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
